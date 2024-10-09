@@ -1,6 +1,6 @@
 ChainPlay is a blockchain-based Play-to-Earn (P2E) gaming platform built on Solidity, allowing players to earn real-world value by engaging in various in-game activities. Players can earn cryptocurrency or NFTs as rewards for completing quests, winning battles, or trading digital assets. The platform uses smart contracts to create secure, transparent, and decentralized in-game economies where players have true ownership of their digital assets.
 
-offecial Documentation here: 
+**Official Doc:** https://decrypt101.gitbook.io/decrypt101/smart-contract-as-services/play-to-earn-gaming
 
 ## Usage
 
