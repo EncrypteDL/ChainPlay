@@ -78,8 +78,8 @@ contract ChainPlayToken is Context, IERC20, Ownable {
     uint256 private _rTotal = (MAX - (MAX % _tTotal));
     uint256 private _tFeeTotal;
 
-    string private _name = "MetaFish Token";
-    string private _symbol = "FISH";
+    string private _name = "CchaiPlay Token";
+    string private _symbol = "Chain";
     uint8 private _decimals = 18;
 
     uint256 public _taxFee = 0;

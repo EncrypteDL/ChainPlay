@@ -1,17 +1,6 @@
-## Foundry
+ChainPlay is a blockchain-based Play-to-Earn (P2E) gaming platform built on Solidity, allowing players to earn real-world value by engaging in various in-game activities. Players can earn cryptocurrency or NFTs as rewards for completing quests, winning battles, or trading digital assets. The platform uses smart contracts to create secure, transparent, and decentralized in-game economies where players have true ownership of their digital assets.
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
-
-Foundry consists of:
-
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
-
-## Documentation
-
-https://book.getfoundry.sh/
+offecial Documentation here: 
 
 ## Usage
 
